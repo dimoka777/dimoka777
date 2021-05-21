@@ -12,3 +12,20 @@
 ### ft_server  
 [![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/ft_server)](https://github.com/JaeSeoKim/badge42)  
 
+![alt-текст](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6 "Python")
+![alt-текст](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=1572B6 "django")
+![alt-текст](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=1572B6 "Java Script")
+![alt-текст](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26 "HTML 5")
+![alt-текст](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB "React")
+![alt-текст](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032 "Git")
+![alt-текст](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6 "CSS")
+![alt-текст](https://img.shields.io/badge/React-Native-282C34?logo=react-native&logoColor=1572B6 "React Native")
+![alt-текст](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql&logoColor=1572B6 "PostgreSQL")
+
+
+
+
+
+
+
+
