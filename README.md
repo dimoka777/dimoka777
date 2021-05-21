@@ -5,7 +5,7 @@
 
 ### libft
 
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/libft)](https://github.com/JaeSeoKim/badge42)
+[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/42curcus-libft)](https://github.com/JaeSeoKim/badge42)
 
 ### ft_printf
 
