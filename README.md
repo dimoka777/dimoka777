@@ -1,6 +1,6 @@
 [![Dilmurat's 42 stats](https://badge42.herokuapp.com/api/stats/schriste)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoka777&layout=compact&langs_count=18&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoka777&layout=compact&langs_count=18&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### get_next_line  
