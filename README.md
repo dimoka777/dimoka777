@@ -11,6 +11,12 @@
 [![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/netwhat)](https://github.com/JaeSeoKim/badge42)  
 ### ft_server  
 [![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/ft_server)](https://github.com/JaeSeoKim/badge42)  
+### mini_talk  
+[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/minitalk)](https://github.com/JaeSeoKim/badge42)  
+### so_long  
+[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/so_long)](https://github.com/JaeSeoKim/badge42)  
+### push_swap 
+[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/push_swap)](https://github.com/JaeSeoKim/badge42)
 
 ![alt-текст](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6 "Python")
 ![alt-текст](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=1572B6 "django")
