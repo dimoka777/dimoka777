@@ -18,7 +18,7 @@
 ### push_swap 
 [![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/push_swap)](https://github.com/JaeSeoKim/badge42)
 ### mini_rt 
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/mini_rt)](https://github.com/JaeSeoKim/badge42)
+[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/minirt)](https://github.com/JaeSeoKim/badge42)
 
 ![alt-текст](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6 "Python")
 ![alt-текст](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=1572B6 "django")
