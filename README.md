@@ -1,7 +1,6 @@
 <img src="https://www.codewars.com/users/dimoka777/badges/large">
 
-[![Dilmurat's 42 stats](https://badge42.herokuapp.com/api/stats/schriste)](https://github.com/JaeSeoKim/badge42)
-
+[![schriste's 42 stats](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoka777&layout=compact&langs_count=18&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### get_next_line  
