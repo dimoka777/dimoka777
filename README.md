@@ -4,21 +4,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoka777&layout=compact&langs_count=18&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### get_next_line  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/get_next_line)](https://github.com/JaeSeoKim/badge42)   
+[![schriste's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2163251)](https://github.com/JaeSeoKim/badge42)
 ### ft_printf  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/ft_printf)](https://github.com/JaeSeoKim/badge42)  
+[![schriste's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2167397)](https://github.com/JaeSeoKim/badge42)
 ### netwhat  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/netwhat)](https://github.com/JaeSeoKim/badge42)  
+[![schriste's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2163869)](https://github.com/JaeSeoKim/badge42)
 ### ft_server  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/ft_server)](https://github.com/JaeSeoKim/badge42)  
+[![schriste's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2170197)](https://github.com/JaeSeoKim/badge42)
 ### mini_talk  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/minitalk)](https://github.com/JaeSeoKim/badge42)  
+[![schriste's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2191488)](https://github.com/JaeSeoKim/badge42)
 ### so_long  
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/so_long)](https://github.com/JaeSeoKim/badge42)  
+[![schriste's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2305948)](https://github.com/JaeSeoKim/badge42)
 ### push_swap 
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/push_swap)](https://github.com/JaeSeoKim/badge42)
+[![schriste's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2170197)](https://github.com/JaeSeoKim/badge42)
 ### mini_rt 
-[![schriste's 42Project Score](https://badge42.herokuapp.com/api/project/schriste/minirt)](https://github.com/JaeSeoKim/badge42)
+[![schriste's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl5gxyien006909jyulyifh4w/project/2437877)](https://github.com/JaeSeoKim/badge42)
 
 ![alt-текст](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6 "Python")
 ![alt-текст](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=1572B6 "django")
