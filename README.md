@@ -6,6 +6,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoka777&layout=compact&langs_count=18&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![alt-текст](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6 "Python")
+![alt-текст](https://img.shields.io/badge/Postgresql-282C34?logo=scala&logoColor=1572B6 "PostgreSQL")
+![alt-текст](https://img.shields.io/badge/Postgresql-282C34?logo=javascript&logoColor=1572B6 "PostgreSQL")
 ![alt-текст](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=1572B6 "django")
 ![alt-текст](https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=1572B6 "Java Script")
 ![alt-текст](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26 "HTML 5")
